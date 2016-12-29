@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class PaymentPage {
 	WebDriver driver;
 
-
+//
 	@BeforeClass(groups="login")
 	public  void login () 
 	{
